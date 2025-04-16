@@ -1,5 +1,5 @@
 <body>
-<img src="./assets/image1.png" alt="tarot1" style="width: 100%; border-radius: 12px; margin-bottom: 20px;" />
+<img src="./assets/image1.png" alt="tarot1" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
 
 <h1>🔮 The Tarot Machine – Project 6 of The Code Fool's Journey</h1>
 
@@ -32,5 +32,5 @@
 <h1>Feel Free to Fork the Journey</h1>
 <p>If you find this helpful for learning or teaching, you're welcome to fork, improve, or remix it in your own way. The Fool’s path is yours to walk — and code — however you like.😊</p>
 
-<img src="./assets/image2.png" alt="taro2" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
+<img src="./assets/image2.png" alt="tarot2" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
 </body>
