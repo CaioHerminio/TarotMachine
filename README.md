@@ -29,6 +29,15 @@
 <h1>About the Code Fool's Journey</h1>
 <p>The Fool's Journey is similar to Joseph Campbell’s famous Hero’s Journey, but instead of 12 stages, it follows 22 stages, based on the 22 Major Arcana of the Tarot. Each card represents an archetype in the evolution of the protagonist, the Fool, who embarks on a path toward knowledge and personal power, just like programmers and artists. Here, each project increases in complexity and covered concepts, from simple variables and data types to APIs, Memory Management, Databases and GUI.</p>
 
+<h2>Previous Projects</h2>
+<ul>
+  <li><a href="https://github.com/CaioHerminio/Magecraft">Project 1 - Magecraft University</a></li>
+  <li><a href="https://github.com/CaioHerminio/hourglassofdreams">Project 2 - Hourglass of Dreams</a></li>
+  <li><a href="https://github.com/CaioHerminio/WelcomeToTheFamily">Project 3 - Welcome to the Family</a></li>
+  <li><a href="https://github.com/CaioHerminio/KaijuGenerator">Project 4 - Kaiju Generator</a></li>
+  <li><a href="https://github.com/CaioHerminio/GothSummoner">Project 5 - Goth Summoner</a></li>
+</ul>
+
 <h1>Feel Free to Fork the Journey</h1>
 <p>If you find this helpful for learning or teaching, you're welcome to fork, improve, or remix it in your own way. The Fool’s path is yours to walk — and code — however you like.😊</p>
 
