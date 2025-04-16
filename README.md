@@ -23,7 +23,7 @@
 <h2>Project Scope: The Tarot Machine</h2>
 <p>Core concepts covered (in addition to concepts from previous projects):</p>
 <ul>
-  <li>Functions (while)</li>
+  <li>Functions</li>
 </ul>
 
 <h1>About the Code Fool's Journey</h1>
